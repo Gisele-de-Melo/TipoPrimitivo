@@ -1,4 +1,4 @@
-# TipoPrimitivo
+# Primitive Types / Tipos Primitivos
 - Example of using primitive data types in Delphi.
 - Exemplo de uso dos tipos de dados primitivos, no delphi.
 
