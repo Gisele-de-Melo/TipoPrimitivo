@@ -13,4 +13,4 @@ O conteúdo desse código é simplesmente em caráter de aprendizado, portanto, 
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/tipos-primitivos/
+  https://codedelphi.com/tipos-de-dados-primitivos-do-delphi/
